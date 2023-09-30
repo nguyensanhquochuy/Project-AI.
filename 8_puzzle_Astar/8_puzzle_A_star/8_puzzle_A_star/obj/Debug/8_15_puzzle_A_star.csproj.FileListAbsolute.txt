@@ -1,0 +1,11 @@
+D:\nam4\AII\nghiencuu\8_puzzle_Astar\8_puzzle_A_star\8_puzzle_A_star\bin\Debug\8_15_puzzle_A_star.exe.config
+D:\nam4\AII\nghiencuu\8_puzzle_Astar\8_puzzle_A_star\8_puzzle_A_star\bin\Debug\8_15_puzzle_A_star.exe
+D:\nam4\AII\nghiencuu\8_puzzle_Astar\8_puzzle_A_star\8_puzzle_A_star\bin\Debug\8_15_puzzle_A_star.pdb
+D:\nam4\AII\nghiencuu\8_puzzle_Astar\8_puzzle_A_star\8_puzzle_A_star\obj\Debug\8_15_puzzle_A_star.csproj.AssemblyReference.cache
+D:\nam4\AII\nghiencuu\8_puzzle_Astar\8_puzzle_A_star\8_puzzle_A_star\obj\Debug\8_15_puzzle_A_star.csproj.SuggestedBindingRedirects.cache
+D:\nam4\AII\nghiencuu\8_puzzle_Astar\8_puzzle_A_star\8_puzzle_A_star\obj\Debug\_8_15_puzzle_A_star.Form1.resources
+D:\nam4\AII\nghiencuu\8_puzzle_Astar\8_puzzle_A_star\8_puzzle_A_star\obj\Debug\_8_15_puzzle_A_star.Properties.Resources.resources
+D:\nam4\AII\nghiencuu\8_puzzle_Astar\8_puzzle_A_star\8_puzzle_A_star\obj\Debug\8_15_puzzle_A_star.csproj.GenerateResource.cache
+D:\nam4\AII\nghiencuu\8_puzzle_Astar\8_puzzle_A_star\8_puzzle_A_star\obj\Debug\8_15_puzzle_A_star.csproj.CoreCompileInputs.cache
+D:\nam4\AII\nghiencuu\8_puzzle_Astar\8_puzzle_A_star\8_puzzle_A_star\obj\Debug\8_15_puzzle_A_star.exe
+D:\nam4\AII\nghiencuu\8_puzzle_Astar\8_puzzle_A_star\8_puzzle_A_star\obj\Debug\8_15_puzzle_A_star.pdb
